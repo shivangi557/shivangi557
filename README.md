@@ -1,0 +1,20 @@
+### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I opensource stuff and break things :rofl:
+- 👋 Hi, I’m shivangi
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning CNN
+- 📫 How to reach me shivangi.dhiman2011@gmail.com
+
+Hi there 
+This is the place where I opensource stuff and break things 🤣
+
+🔭  I’m currently working on something cool 😉
+🌱  I’m currently learning Flutter, Go
+💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+📫  How to reach me: @gautamkrishnar or fosstodon.org/@gkr
+👨‍💻  Read more about my projects at gautamkrishnar.com
+⚡  Fun fact: I ❤️ 🐶s
+<!---
+shivangi557/shivangi557 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
