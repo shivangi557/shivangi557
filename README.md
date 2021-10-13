@@ -4,8 +4,7 @@
 
 
 ![Untitled design](https://user-images.githubusercontent.com/61706649/137080255-1ce44ade-38fa-41a8-99f5-619fff6003c6.jpg)
-
-![Untitled design](https://user-images.githubusercontent.com/61706649/137080460-3a0aa034-7b42-488d-b787-d1192d2c5a60.jpg)
+![Untitled design](https://user-images.githubusercontent.com/61706649/137080690-ec5dad89-bea7-4442-926a-8dfa44d65404.jpg)
 
 
 
