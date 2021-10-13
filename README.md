@@ -2,9 +2,7 @@
 
 ![Brown and Peach Blob Organic Sale Quick Create Email Header](https://user-images.githubusercontent.com/61706649/137077656-bf10f9b1-f803-4447-8115-d219a47f0a11.png)
 
-
-![Untitled design](https://user-images.githubusercontent.com/61706649/137080255-1ce44ade-38fa-41a8-99f5-619fff6003c6.jpg)
-![Untitled design](https://user-images.githubusercontent.com/61706649/137080690-ec5dad89-bea7-4442-926a-8dfa44d65404.jpg)
+![Untitled design (1)](https://user-images.githubusercontent.com/61706649/137081736-07a927ca-b6b5-4677-945a-c2fe711627d0.jpg)
 
 
 
