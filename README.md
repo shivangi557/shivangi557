@@ -1,6 +1,6 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![Brown and Peach Blob Organic Sale Quick Create Email Header](https://user-images.githubusercontent.com/61706649/137077656-bf10f9b1-f803-4447-8115-d219a47f0a11.png)
+![Brown and Peach Blob Organic Sale Quick Create Email Header](https://user-images.githubusercontent.com/61706649/137077656-bf10f9b1-f803-4447-8115-d219a47f0a11.png {width=900px height=400px}))
 
 This is the place where I opensource stuff and break things :rofl:
 - 👋 Hi, I’m shivangi
